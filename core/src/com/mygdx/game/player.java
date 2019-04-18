@@ -17,7 +17,7 @@ public class player {
     public void render(SpriteBatch batch){
         batch.draw(img, position.x, position.y);
     }
-
+g,mzgksifjks
     public void update(){
 
     }
