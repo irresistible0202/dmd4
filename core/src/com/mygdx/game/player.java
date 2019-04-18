@@ -10,7 +10,7 @@ public class player {
 
 
     public player(){
-        img = new Texture("Voin.jpg");
+        img = new Texture("Voin_png.png");
         position = new Vector2(100, 0);
     }
 
